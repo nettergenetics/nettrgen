@@ -7,8 +7,8 @@ sections:
       background_color: blue
       background_image: /images/diagonal-lines.svg
       background_image_opacity: 0
-      background_image_size: null
-      background_image_repeat: null
+      background_image_size: auto
+      background_image_repeat: repeat
     has_background: true
     subtitle: ACMGG student interest group at the Frank H. Netter MD School of Medicine
     title: Genomics and Personalized Medicine
