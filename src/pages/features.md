@@ -1,16 +1,15 @@
 ---
-title: Features
+title: Activities
 sections:
   - type: hero_section
     title: Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     align: center
   - type: features_section
     features:
       - type: feature
         title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
@@ -23,10 +22,9 @@ sections:
             style: primary
       - type: feature
         title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+          lacinia.
         align: left
         image: images/feature.svg
         image_position: left
@@ -37,10 +35,8 @@ sections:
             style: primary
       - type: feature
         title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus eget
+          nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in ante.
         align: left
         image: images/feature.svg
         image_position: right
