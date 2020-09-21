@@ -1,19 +1,19 @@
 ---
 title: Home
 sections:
-  - align: center
+  - align: left
     image_position: right
     background:
       background_color: blue
-      background_image: /images/dna.jpeg
+      background_image: /images/diagonal-lines.svg
       background_image_opacity: 0
-      background_image_size: contain
-      background_image_repeat: no-repeat
+      background_image_size: null
+      background_image_repeat: null
     has_background: true
     subtitle: ACMGG student interest group at the Frank H. Netter MD School of Medicine
     title: Genomics and Personalized Medicine
     type: hero_section
-    image: ""
+    image: /images/dna.jpeg
     actions:
       - type: action
         label: Learn More
@@ -24,15 +24,14 @@ sections:
         url: /contact
         style: secondary
   - type: features_section
-    title: Features
+    title: Activities
     features:
       - type: feature
-        title: Feature 1
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        title: Genetics Lunch
+        content: We meet every Wednesday lunch and alternate our meeting format between
+          Case Presentations, Research Seminars, and Computational Workshops.
         align: left
-        image: images/feature.svg
+        image: /images/video-conference-5363856_960_720.png
         image_position: right
         actions:
           - type: action
@@ -40,12 +39,16 @@ sections:
             url: /features
             style: secondary
       - type: feature
-        title: Feature 2
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        title: "Genomics Research Collaborative "
+        content: We welcome interested students, residents and faculty to join our
+          Genomics Research Collaborative (GRC). GRC gathers student researchers
+          with an interest in computational genomics, basic science, and
+          clinical research related to genetics. We promote various types of
+          research collaboration, including support of advanced research
+          training, sharing of genomics data, assistance in capstone projects,
+          co-authoring publications, and presenting at scientific meetings.
         align: left
-        image: images/feature.svg
+        image: /images/180925_research_event_lg.jpg
         image_position: left
         actions:
           - type: action
@@ -53,11 +56,14 @@ sections:
             url: /features
             style: secondary
       - type: feature
-        title: Feature 3
-        content: Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus eget
-          nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in ante.
+        title: Mentoring
+        content: We serve to link students interested in genomics and personalized
+          medicine to mentors in research and clinical practice working not only
+          in medical genetics and genomics but also in a variety of other fields
+          that intersect with genetics. These include general internal medicine,
+          pediatrics, oncology, neurosurgery, psychiatry, ob/gyn, and others.
         align: left
-        image: images/feature.svg
+        image: /images/mentoring.jpg
         image_position: right
         actions:
           - type: action
@@ -69,13 +75,14 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    title: Join Us!
+    subtitle: Please get in touch if you would like to learn more about the Genomics
+      and Personalized Medicine group at Netter. We welcome anyone curious about
+      the role of modern genetics in health and medicine.
     actions:
       - type: action
-        label: Learn More
-        url: /features
+        label: Contact Us
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
