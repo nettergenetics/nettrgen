@@ -4,10 +4,10 @@ sections:
   - align: center
     image_position: right
     background:
-      background_color: white
+      background_color: blue
       background_image: /images/dna.jpeg
-      background_image_opacity: 20
-      background_image_size: cover
+      background_image_opacity: 0
+      background_image_size: contain
       background_image_repeat: no-repeat
     has_background: true
     subtitle: ACMGG student interest group at the Frank H. Netter MD School of Medicine
