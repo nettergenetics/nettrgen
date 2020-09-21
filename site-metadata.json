@@ -57,37 +57,22 @@
       }
     ],
     "has_social": true,
-    "social_links": [
-      {
-        "type": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "link",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "link",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "link",
-        "new_window": true
-      }
-    ],
-    "content": "&copy; Stackbit-Starter. All rights reserved.",
+    "social_links": [],
+    "content": "&copy; Netter Genomics and Personalized Medicine. All rights reserved.",
     "links": [
       {
-        "type": "action",
-        "label": "Made with Stackbit.",
-        "url": "https://www.stackbit.com",
         "style": "link",
-        "new_window": true
+        "new_window": true,
+        "type": "action",
+        "url": "https://www.qu.edu/schools/medicine.html",
+        "label": "Netter School of Medicine"
+      },
+      {
+        "style": "link",
+        "new_window": true,
+        "type": "action",
+        "label": "American College of Medical Genetics and Genomics",
+        "url": "https://www.acmg.net/"
       }
     ]
   }
